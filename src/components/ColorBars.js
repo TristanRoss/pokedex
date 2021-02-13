@@ -5,7 +5,7 @@ class ColorBars extends Component {
   render() {
     return (
       <Container
-        style={{ width: '400px', marginTop: '20px', paddingLeft: '50px' }}
+        style={{ maxWidth: '400px', marginTop: '20px', paddingLeft: '50px' }}
       >
         <motion.div
           style={{

@@ -22,6 +22,7 @@ export class Pokemon extends Component {
           style={{
             maxWidth: '400px',
             margin: '0 auto',
+            height: '284px',
             marginTop: '20px',
             textAlign: 'center',
             boxShadow: '0px 0px 10px white',

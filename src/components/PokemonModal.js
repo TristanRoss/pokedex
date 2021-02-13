@@ -85,6 +85,7 @@ class PokemonModal extends Component {
             color: 'yellow',
             textShadow: '4px 0px blue',
             fontSize: '50px',
+            marginTop: '25px',
           }}
         >
           PoKéDeX
